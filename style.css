@@ -6,7 +6,8 @@ h1 {
     text-align: center;
 }
 img {
-    border-radius: 8px;
-    border-radius: 60%;
-    float: left;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    float: right;
 }
