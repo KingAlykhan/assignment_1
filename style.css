@@ -11,7 +11,7 @@ img {
     border-radius: 50%;
     float: right;
 }
-div {
+body {
     column-count: 2;
     column-gap: 40px;
   }
