@@ -144,4 +144,5 @@ body2 h1 {
     color: #FFFFFF;
     line-height: 2;
     text-indent: 50px;
+    grid-row-start: 1;
 }
