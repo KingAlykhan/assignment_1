@@ -67,7 +67,7 @@ body1 h1 {
     backface-visibility: hidden;
 }
 
-  body2 h1 {
+body2 h1 {
     color: #1EB53A;
     text-align: center;
     font-size: 35px;
@@ -125,7 +125,6 @@ body1 h1 {
     border-radius: 6px;
     border: 3px solid #00A3DD;
     padding: 5px;
-    position: relative; top: 20px;
 }
 
 #image4 {
@@ -133,7 +132,6 @@ body1 h1 {
     border-radius: 6px;
     border: 3px solid #00A3DD;
     padding: 5px;
-    position: relative; top: 30px;
 }
 
 #history {
@@ -143,4 +141,5 @@ body1 h1 {
     font-size: 20px;
     color: #FFFFFF;
     line-height: 1.5;
+    text-indent: 50px;
 }
