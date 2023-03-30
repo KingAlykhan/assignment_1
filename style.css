@@ -110,7 +110,7 @@ body2 h1 {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    position: relative; bottom: 103%;
+    grid-row-start: 1;
 }
 
 #image2 {
