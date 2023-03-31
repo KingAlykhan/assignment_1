@@ -155,7 +155,7 @@ body2 h1 {
     font-size: 20px;
     color: #FFFFFF;
     line-height: 2;
-    text-indent: 50px;
+    text-indent: 45px;
 }
 
 * {
@@ -163,19 +163,44 @@ body2 h1 {
   }
 
   @media only screen and (max-width: 1441px) {
-    #imageB {
-        height: 100%;
-    }
+   
         #image2 {
-            margin-bottom: 57px;
+            margin-bottom: 58px;
+            margin-left: -35px;
+            height: 100%;
+            width: 80%;
         }
         
         #image3 {
-            margin-bottom: 57px;
+            margin-bottom: 58px;
+            margin-left: -35px;
+            height: 100%;
+            width: 80%;
         }
 
-        #container3 p1 {
-            font-size: 5px;
+        #image4 {
+            height: 100%;
+            width: 80%;
+            margin-left: -35px;
+        }
+
+        #history {
+            margin-right: 25px;
+        }
+
+        #container3 #row1 p1 {
+            font-size: 15px;
+            letter-spacing: 0.25px;
+        }
+
+        #container3 #row2 p1 {
+            font-size: 16px;
+            letter-spacing: 0.25px;
+        }
+
+        #container3 #row3 p1 {
+            font-size: 16px;
+            letter-spacing: 0.25px;
         }
     }
 
