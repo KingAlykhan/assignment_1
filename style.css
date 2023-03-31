@@ -26,6 +26,14 @@ body1 h1 {
     color: #FCD116;
 }
 
+.link-text {
+    color: #00A3DD;
+}
+
+.contrast-text {
+    color: #ebd89f;
+}
+
 #container1 {
     position: relative; top: 20px;
     display: grid;
@@ -174,6 +182,14 @@ body3 h1 {
     position: relative; top: 80px;
 }
 
+body3 p2 {
+    color: #ebd89f;
+    margin-left: 39.1%;
+    font-size: 22px;
+    position: relative; top: 80px;
+    letter-spacing: 0.25px;
+}
+
 #container3 {
     display: grid; 
     position: relative; top: 60px;
@@ -214,7 +230,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #1EB53A #FCD116 #5A5A5A #00A3DD;
     padding: 5px;
 }
 
@@ -222,7 +239,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #00A3DD #1EB53A #FCD116 #5A5A5A;
     padding: 5px;
 }
 
@@ -230,7 +248,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #5A5A5A #00A3DD #1EB53A #FCD116;
     padding: 5px;
 }
 
@@ -238,7 +257,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FCD116 #5A5A5A #FFFFFF red;
     padding: 5px;
 }
 
@@ -246,7 +266,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FFFFFF red;
     padding: 5px;
 }
 
@@ -254,7 +275,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FFFFFF red;
     padding: 5px;
 }
 
@@ -262,7 +284,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FFFFFF red;
     padding: 5px;
 }
 
@@ -270,7 +293,8 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FFFFFF red;
     padding: 5px;
 }
 
@@ -278,6 +302,7 @@ body3 h1 {
     width: 65%;
     height: 20%;
     border-radius: 6px;
-    border: 3px solid #00A3DD;
+    border: 3px solid;
+    border-color: #FFFFFF red;
     padding: 5px;
 }
