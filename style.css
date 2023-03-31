@@ -22,7 +22,7 @@ body1 h1 {
     font-size: 35px;
 }
 
-.yellowText {
+.yellow-text {
     color: #FCD116;
 }
 
@@ -50,6 +50,7 @@ body1 h1 {
     margin-right: auto;
     text-align: center;
     position: relative; top: 0.5px;
+    color: #FFFFFF;
 }
 
 #image p2 {
@@ -90,7 +91,7 @@ body2 h1 {
     opacity: 1;
   }
   
-#hovertext {
+.hovertext {
     background-color: #292929;
     color: #FFFFFF;
     font-size: 20px;
@@ -104,7 +105,7 @@ body2 h1 {
     position: relative; top: 60px;
 }
 
-#imageB {
+#imageb {
     grid-column-start: 1;
     grid-column-end: 2;
     margin-left: auto;
@@ -112,6 +113,8 @@ body2 h1 {
     text-align: center;
     grid-row-start: 1;
     height: auto;
+    line-height: 28px;
+    color: #FFFFFF;
 }
 
 #image2 {
@@ -163,3 +166,110 @@ body2 h1 {
             margin-bottom: 60px;
         }
     }
+
+body3 h1 {
+    color: #1EB53A;
+    text-align: center;
+    font-size: 35px;
+    position: relative; top: 80px;
+}
+
+#container3 {
+    display: grid; 
+    column-gap: 1px;
+    position: relative; top: 60px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#column1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+#column2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+#column3 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    color: #FFFFFF;
+    font-size: 17px;
+}
+
+#i1943 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%;
+}
+
+#i1954 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%; 
+}
+
+#i1967 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%;
+}
+
+#i1973 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%; 
+}
+
+#i1983 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%;
+}
+
+#i1996 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%; 
+}
+
+#i2006 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%;
+}
+
+#i2012 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%; 
+}
+
+#i2022 {
+    width: 60%;
+    border-radius: 6px;
+    border: 3px solid #00A3DD;
+    padding: 5px;
+    margin-left: 20%;
+}
